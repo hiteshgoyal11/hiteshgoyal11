@@ -167,7 +167,7 @@ public class Developer {
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://[leetcode.com/u/hiteshgoyal11/](https://leetcode.com/u/hiteshgoyal01/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hiteshgoyal01" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   &nbsp;
