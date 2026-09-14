@@ -18,12 +18,16 @@
 
 <br>
 
-<h2>Live GitHub Metrics</h2>
+<h2>Daily GitHub Contributions & Activity</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshgoyal11&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=1" alt="GitHub Streak" />
+
+  <!-- Dynamic Contribution Graph showing daily commit activity -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshgoyal11&theme=tokyo-night&hide_border=true&area=true" alt="Daily Contribution Graph" />
   
   <br><br>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&v=1" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&v=1" alt="Top Languages" />
+
+  <!-- Stable GitHub Overview Stats -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+
 </div>
