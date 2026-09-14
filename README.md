@@ -132,8 +132,8 @@ public class Developer {
 <div align="center">
   <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshgoyal11&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
   <br><br>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img height="185em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-phi-beryl-17.vercel.app/api?)username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
+  <img height="185em" src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-phi-beryl-17.vercel.app/api/top-langs/?)username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
   <br><br>
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshgoyal11&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Daily Contribution Graph" />
 </div>
