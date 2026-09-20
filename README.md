@@ -136,15 +136,39 @@ public class Developer {
 ## 📈 Daily GitHub Activity & Statistics
 
 <div align="center">
-  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshgoyal11&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
+  <!-- ===== Contribution streak ===== -->
+  <img width="92%" src="https://streak-stats.demolab.com/?user=hiteshgoyal11&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
   <br><br>
-  <img height="185em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-phi-beryl-17.vercel.app/api?)username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
-  <img height="185em" src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-phi-beryl-17.vercel.app/api/top-langs/?)username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+
+  <!-- ===== GitHub stats + most used languages (your own Vercel server) ===== -->
+  <img height="185em" src="https://github-readme-stats-lztw.vercel.app/api?username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats-lztw.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+
   <br><br>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshgoyal11&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Daily Contribution Graph" />
+
+  <!-- ===== Contribution activity graph (needs your own deployment, see note below) ===== -->
+  <img width="95%" src="https://YOUR-GRAPH-DOMAIN.vercel.app/graph?username=hiteshgoyal11&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Daily Contribution Graph" />
+
 </div>
 
 <br>
+
+<!-- ===== Pinned repositories (optional) =====
+     To enable: replace REPO_NAME_1 and REPO_NAME_2 with your repo names,
+     then delete the "<!--" line above this block and the "-->" line below it.
+
+<div align="center">
+  <a href="https://github.com/hiteshgoyal11/REPO_NAME_1">
+    <img src="https://github-readme-stats-lztw.vercel.app/api/pin/?username=hiteshgoyal11&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&border_radius=8" alt="Pinned repo 1" />
+  </a>
+  <a href="https://github.com/hiteshgoyal11/REPO_NAME_2">
+    <img src="https://github-readme-stats-lztw.vercel.app/api/pin/?username=hiteshgoyal11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&border_radius=8" alt="Pinned repo 2" />
+  </a>
+</div>
+
+-->
 
 ## 🐍 Contribution Snake
 
