@@ -122,8 +122,12 @@ public class Developer {
 ## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiteshgoyal11&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&margin_h=4&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-stats-phi-beryl-17.vercel.app/?username=hiteshgoyal11&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&margin_h=4&column=7" alt="GitHub Trophies" />
+  </a>
 </div>
+
+<br>
 
 <br>
 
