@@ -137,38 +137,37 @@ public class Developer {
 
 <div align="center">
 
-  <!-- ===== Contribution streak ===== -->
+  <!-- Section: contribution streak -->
+  <h3>🔥 Contribution Streak</h3>
   <img width="92%" src="https://streak-stats.demolab.com/?user=hiteshgoyal11&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
   <br><br>
 
-  <!-- ===== GitHub stats + most used languages (your own Vercel server) ===== -->
-  <img height="185em" src="https://github-readme-stats-lztw.vercel.app/api?username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats-lztw.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
+  <!-- Section: overall stats and top languages from your own Vercel server -->
+  <h3>📊 Stats and Top Languages</h3>
+  <img height="185" src="https://github-readme-stats-lztw.vercel.app/api?username=hiteshgoyal11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats-lztw.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Top Languages" />
 
   <br><br>
 
-  <!-- ===== Contribution activity graph (needs your own deployment, see note below) ===== -->
+  <!-- Section: language breakdown as a donut chart -->
+  <h3>🧩 Language Breakdown</h3>
+  <img src="https://github-readme-stats-lztw.vercel.app/api/top-langs/?username=hiteshgoyal11&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Language Breakdown" />
+
+  <br><br>
+
+  <!-- Section: activity graph, disabled until you deploy your own copy -->
+  <!--
+  <h3>📈 Contribution Graph</h3>
   <img width="95%" src="https://YOUR-GRAPH-DOMAIN.vercel.app/graph?username=hiteshgoyal11&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Daily Contribution Graph" />
+  <br><br>
+  -->
+
+  <sub>These cards refresh automatically. Powered by github-readme-stats and streak-stats.</sub>
 
 </div>
 
 <br>
-
-<!-- ===== Pinned repositories (optional) =====
-     To enable: replace REPO_NAME_1 and REPO_NAME_2 with your repo names,
-     then delete the "<!--" line above this block and the "-->" line below it.
-
-<div align="center">
-  <a href="https://github.com/hiteshgoyal11/REPO_NAME_1">
-    <img src="https://github-readme-stats-lztw.vercel.app/api/pin/?username=hiteshgoyal11&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&border_radius=8" alt="Pinned repo 1" />
-  </a>
-  <a href="https://github.com/hiteshgoyal11/REPO_NAME_2">
-    <img src="https://github-readme-stats-lztw.vercel.app/api/pin/?username=hiteshgoyal11&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&border_radius=8" alt="Pinned repo 2" />
-  </a>
-</div>
-
--->
 
 ## 🐍 Contribution Snake
 
