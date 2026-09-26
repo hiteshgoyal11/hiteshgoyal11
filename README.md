@@ -67,7 +67,7 @@ public class Developer {
 - 💡 **Current Focus:** Deep-diving into core computer science fundamentals and algorithmic problem-solving using Java.
 - ⚡ **Philosophy:** Clean, readable, and highly optimized code built on strong fundamental logic.
 - 🎯 **Daily Objective:** Consistently tackling complex DSA challenges and documenting progress daily on GitHub.
-- 🌱 **Currently Exploring:** Advanced tree/graph algorithms and competitive programming patterns.
+- 🌱 **Currently Exploring:** Advanced tree/graph algorithms, competitive programming patterns, and problem-solving techniques.
 - 📫 **Reach Me:** Always up for a chat about Java, DSA, or software engineering in general.
 
 <br clear="both">
