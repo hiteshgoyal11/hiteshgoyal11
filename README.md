@@ -4,8 +4,8 @@
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there!+Welcome+to+my+digital+space+%F0%9F%91%8B;B.Tech+IT+Undergrad+at+IPEC+(2024+-+2028);Dedicated+to+Daily+Data+Structures+%26+Algorithms;Turning+Coffee+into+Optimized+Java+Code+%E2%98%95;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=Hi+there!+Welcome+to+my+digital+space+%F0%9F%91%8B;B.Tech+IT+Undergrad+at+IPEC+(2024+-+2028);Dedicated+to+Daily+Data+Structures+%26+Algorithms;Turning+Coffee+into+Optimized+Java+Code+%E2%98%95;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
   <br><br>
 
@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4b060ea31f9a.gif" alt="coding gif" />
+<!-- <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4b060ea31f9a.gif" alt="coding gif" /> -->
 
 ```java
 public class Developer {
